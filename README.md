@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 High‑school developer and designer based in Tokyo. My projects span from personal websites and client portfolios to non‑profit initiatives and class assignments. I enjoy building interactive experiences using TypeScript/JavaScript, HTML and CSS, and I’m captivated by modern aesthetics such as Glassmorphism and Swiss-style designs.
 
 I’ve developed websites for clubs such as the Computer Science club, and built a Streamlit interface to serve machine‑learning models during a Harvard internship. I also co-founded and created non‑profits like Mirai‑Collective to help causes gain visibility through digital mediums.
